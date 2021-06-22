@@ -10,16 +10,12 @@ The products are structured by combining multiple derivatives on-chain. For exam
 
 ## Does Ribbon have a token?
 
-No, we do not have a token. We are aware that there are scammers that have created fake Ribbon tokens and are actively distributing them on DEXes. Do not buy them.
+Yes, we have a token. You can find more information about the $RBN Airdrop and contract [here](https://ribbonfinance.medium.com/rbn-airdrop-distribution-70b6cb0b870c). The token is currently non-transferable. Be aware that there are scammers that have created fake Ribbon tokens and are actively distributing them on DEXes. Do not buy them. Official RBN address: [0x6123B0049F904d730dB3C36a31167D9d4121fA6B](https://etherscan.io/address/0x6123B0049F904d730dB3C36a31167D9d4121fA6B).
 
 ## What is the security of Ribbon contracts?
 
-Our v1 Solidity contracts are not audited yet, and as such must be treated as alpha software. Users are encouraged to only risk funds that they are willing to lose. The v1 contracts do not hold any significant amount of cash, but holds the underlying options positions on behalf of the user. Therefore, there is a risk that users will lose their positions in the event of a hack.
-
-The Series Y product is undergoing an audit, details of this audit will be publicly posted once it is complete.
+Our v1 Solidity contracts have been audited by [Peckshield](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Ribbon-v1.0.pdf). The v1 contracts do not hold any significant amount of cash, but holds the underlying options positions on behalf of the user. Therefore, there is a risk that users will lose their positions in the event of a hack. Users are encouraged to only risk funds that they are willing to lose. 
 
 ## Help! I need help to do a trade.
 
-Reach out to us on [Discord](https://discord.gg/85gcVafPyN), we'll help you out.  
-
-
+Reach out to us on [Discord](https://discord.gg/85gcVafPyN), we'll help you out.
